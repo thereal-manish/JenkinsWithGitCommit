@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_Tg5LkNwfEe2l3YMjhPXsGA" type="Dsl" name="IssueSubmit.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_ULkgQNwfEe2l3YMjhPXsGA" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ULlHUNwfEe2l3YMjhPXsGA" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ULlHUdwfEe2l3YMjhPXsGA" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_vgPyYNwfEe2l3YMjhPXsGA" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="_vgPyZNwfEe2l3YMjhPXsGA" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_vgPyYdwfEe2l3YMjhPXsGA"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_vgPyYtwfEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="IssueSubmit.sl#qml926122610a2647868df4959fb53f526d"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vgPyY9wfEe2l3YMjhPXsGA" x="445" y="189" width="241"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_z1GSwNwfEe2l3YMjhPXsGA" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_z1G50NwfEe2l3YMjhPXsGA" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_z1GSwdwfEe2l3YMjhPXsGA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_z1GSwtwfEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_z1GSw9wfEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="IssueSubmit.sl#qml0499d5cdd75f42c4b8c7f907823c6697"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z1GSxNwfEe2l3YMjhPXsGA" x="310" y="264" width="181"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_3QBhgNwfEe2l3YMjhPXsGA" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3QBhhdwfEe2l3YMjhPXsGA" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_3QBhgdwfEe2l3YMjhPXsGA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_3QBhgtwfEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_3QBhg9wfEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="IssueSubmit.sl#qml62ab26d0b49b4fcc81bae5af23453689"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3QBhhNwfEe2l3YMjhPXsGA" x="595" y="264" width="211"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_ULkgQdwfEe2l3YMjhPXsGA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ULkgQtwfEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_ULkgQ9wfEe2l3YMjhPXsGA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_ULkgRNwfEe2l3YMjhPXsGA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="IssueSubmit.sl#qml6cd31e3258e843db8de41e930d69905e"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ULkgRdwfEe2l3YMjhPXsGA" x="30" y="30" width="1036" height="496"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Tg5LkdwfEe2l3YMjhPXsGA"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="IssueSubmit.sl#/"/>
+</notation:Diagram>

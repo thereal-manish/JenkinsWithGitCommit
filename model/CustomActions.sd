@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_RL_UMNzkEe2N9aiU1-qMiw" type="Dsl" name="CustomActions.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_SnGAQNzkEe2N9aiU1-qMiw" type="2006">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SnHOYNzkEe2N9aiU1-qMiw" type="5048"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_SnHOYdzkEe2N9aiU1-qMiw" type="5053"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_SnGAQdzkEe2N9aiU1-qMiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_SnGAQtzkEe2N9aiU1-qMiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_SnGAQ9zkEe2N9aiU1-qMiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:ExternalInterface" href="CustomActions.sl#qml6906a09fc89f412cb22d9eae76487c0a"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SnGARNzkEe2N9aiU1-qMiw" x="270" y="60" width="406" height="76"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_UvR0wNzkEe2N9aiU1-qMiw" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UvR0xtzkEe2N9aiU1-qMiw" type="5082"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UvR0x9zkEe2N9aiU1-qMiw" type="7032">
+      <children xmi:type="notation:Shape" xmi:id="_V7fJMNzkEe2N9aiU1-qMiw" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_V7fwQNzkEe2N9aiU1-qMiw" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_V7fwQdzkEe2N9aiU1-qMiw" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="CustomActions.sl#qmlccb7f67489fb456da4408609f3755f97"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V7fJMdzkEe2N9aiU1-qMiw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UvR0yNzkEe2N9aiU1-qMiw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UvR0ydzkEe2N9aiU1-qMiw"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_UvR0wdzkEe2N9aiU1-qMiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_UvR0wtzkEe2N9aiU1-qMiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_UvR0w9zkEe2N9aiU1-qMiw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_UvR0xNzkEe2N9aiU1-qMiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:CustomAction" href="CustomActions.sl#qmlb1d837c921e54cabbd4f15c1d1c2c3aa"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UvR0xdzkEe2N9aiU1-qMiw" x="30" y="90" width="181" height="136"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_RL_UMdzkEe2N9aiU1-qMiw"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="CustomActions.sl#/"/>
+</notation:Diagram>

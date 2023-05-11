@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_OF_DENwUEe2l3YMjhPXsGA" type="Dsl" name="MantisHome.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_Z54u8NwUEe2l3YMjhPXsGA" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Z54u9twUEe2l3YMjhPXsGA" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Z54u99wUEe2l3YMjhPXsGA" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_chuT4NwUEe2l3YMjhPXsGA" type="3016">
+        <children xmi:type="notation:DecorationNode" xmi:id="_chuT5twUEe2l3YMjhPXsGA" type="5019"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_chuT59wUEe2l3YMjhPXsGA" type="7005">
+          <children xmi:type="notation:Node" xmi:id="_iiFT0NwUEe2l3YMjhPXsGA" type="3017">
+            <children xmi:type="notation:DecorationNode" xmi:id="_iiFT1twUEe2l3YMjhPXsGA" type="5018"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_iiFT19wUEe2l3YMjhPXsGA" type="7022">
+              <children xmi:type="notation:Shape" xmi:id="_kpRCwNwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_kpRCwtwUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qmlebfc16e632e544e4ab9d2c70f042c095"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpRCwdwUEe2l3YMjhPXsGA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_iiFT2NwUEe2l3YMjhPXsGA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_iiFT2dwUEe2l3YMjhPXsGA"/>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_iiFT0dwUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_iiFT0twUEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_iiFT09wUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_iiFT1NwUEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Menu" href="MantisHome.sl#qmlb411836dc68349459d5938162fbfbf83"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iiFT1dwUEe2l3YMjhPXsGA"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oR1r8NwUEe2l3YMjhPXsGA" type="3017">
+            <children xmi:type="notation:DecorationNode" xmi:id="_oR1r9twUEe2l3YMjhPXsGA" type="5018"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_oR1r99wUEe2l3YMjhPXsGA" type="7022">
+              <children xmi:type="notation:Shape" xmi:id="_sC9NINwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_sC9NItwUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qmle42cea542e9844f9a20758067eeb9576"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sC9NIdwUEe2l3YMjhPXsGA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_oR1r-NwUEe2l3YMjhPXsGA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_oR1r-dwUEe2l3YMjhPXsGA"/>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_oR1r8dwUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_oR1r8twUEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_oR1r89wUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_oR1r9NwUEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Menu" href="MantisHome.sl#qml0159c9eb339c4a3a9fccf1bf2bf5e987"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oR1r9dwUEe2l3YMjhPXsGA"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_uLQWYNwUEe2l3YMjhPXsGA" type="3017">
+            <children xmi:type="notation:DecorationNode" xmi:id="_uLQWZtwUEe2l3YMjhPXsGA" type="5018"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_uLQWZ9wUEe2l3YMjhPXsGA" type="7022">
+              <children xmi:type="notation:Shape" xmi:id="_vkZTkNwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_vkZTktwUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qmlc4c781ff4bcb400fa5b176949d60bf56"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vkZTkdwUEe2l3YMjhPXsGA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_uLQWaNwUEe2l3YMjhPXsGA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_uLQWadwUEe2l3YMjhPXsGA"/>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_uLQWYdwUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_uLQWYtwUEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_uLQWY9wUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_uLQWZNwUEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Menu" href="MantisHome.sl#qmle1e836ab1c2c429fa10bc1ce9f3c8429"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uLQWZdwUEe2l3YMjhPXsGA"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zXqw4NwUEe2l3YMjhPXsGA" type="3017">
+            <children xmi:type="notation:DecorationNode" xmi:id="_zXqw5twUEe2l3YMjhPXsGA" type="5018"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_zXqw59wUEe2l3YMjhPXsGA" type="7022">
+              <children xmi:type="notation:Shape" xmi:id="_0O7JANwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_0O7JAtwUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qmldc14c60162024781aa04adb65b376630"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0O7JAdwUEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_0mgikNwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_0mgiktwUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml6257dc654779462994f1970a801e1d42"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0mgikdwUEe2l3YMjhPXsGA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_zXqw6NwUEe2l3YMjhPXsGA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_zXqw6dwUEe2l3YMjhPXsGA"/>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_zXqw4dwUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_zXqw4twUEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_zXqw49wUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_zXqw5NwUEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Menu" href="MantisHome.sl#qmlc39076f141404519af805fde48ea1739"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zXqw5dwUEe2l3YMjhPXsGA"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_4-sDwNwUEe2l3YMjhPXsGA" type="3017">
+            <children xmi:type="notation:DecorationNode" xmi:id="_4-sDxtwUEe2l3YMjhPXsGA" type="5018"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_4-sDx9wUEe2l3YMjhPXsGA" type="7022">
+              <children xmi:type="notation:Shape" xmi:id="_6jeQQNwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_6jeQQtwUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml687803948add4f31b4d78d3f0c0aab00"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6jeQQdwUEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_9pAd0NwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_9pAd0twUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qmlffc3c8c537694eefa27a0a9c4cd91134"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9pAd0dwUEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_-feLwNwUEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_-feLwtwUEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qmle8172048335547f69b00ae2c15c65968"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-feLwdwUEe2l3YMjhPXsGA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_4-sDyNwUEe2l3YMjhPXsGA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_4-sDydwUEe2l3YMjhPXsGA"/>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_4-sDwdwUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_4-sDwtwUEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_4-sDw9wUEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_4-sDxNwUEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Menu" href="MantisHome.sl#qml8fb4c783a53345c4b920b9552ed3c641"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4-sDxdwUEe2l3YMjhPXsGA"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_chuT6NwUEe2l3YMjhPXsGA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_chuT6dwUEe2l3YMjhPXsGA"/>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_chuT4dwUEe2l3YMjhPXsGA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_chuT4twUEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_chuT49wUEe2l3YMjhPXsGA"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_chuT5NwUEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:MenuBar" href="MantisHome.sl#qml9f21ae91d8104198abca921edd76dc0e"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_chuT5dwUEe2l3YMjhPXsGA" x="28" y="24" width="988" height="181"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_-YggwNwXEe2l3YMjhPXsGA" type="3016">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-YhH0NwXEe2l3YMjhPXsGA" type="5019"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_-YhH0dwXEe2l3YMjhPXsGA" type="7005">
+          <children xmi:type="notation:Node" xmi:id="_AijWcNwYEe2l3YMjhPXsGA" type="3017">
+            <children xmi:type="notation:DecorationNode" xmi:id="_AijWdtwYEe2l3YMjhPXsGA" type="5018"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_AijWd9wYEe2l3YMjhPXsGA" type="7022">
+              <children xmi:type="notation:Shape" xmi:id="_FbDWcNwYEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_FbD9gdwYEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml1505e65d16e744d7a1ef1abd7c8ee1c6"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FbD9gNwYEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_HXWrENwYEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_HXWrEtwYEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml52bcc7f1b1a04cc981e6d45f88091969"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HXWrEdwYEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_IGea4NwYEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_IGea4twYEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml7bc487c8944d40fcac0891b9dd37d606"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IGea4dwYEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_KFV7UNwYEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_KFWiYNwYEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qmla10922bde6ea45cf8f6f1321a76814a4"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KFV7UdwYEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_Kjf28NwYEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_Kjf28twYEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml6ebc7965148345c3aab5cb8cacc8e0df"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kjf28dwYEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_LuuT8NwYEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_LuuT8twYEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml59aa620970204f0886087b22297d6e47"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LuuT8dwYEe2l3YMjhPXsGA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_MSHU4NwYEe2l3YMjhPXsGA" type="3043" fontName="Segoe UI">
+                <children xmi:type="notation:DecorationNode" xmi:id="_MSHU4twYEe2l3YMjhPXsGA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="MantisHome.sl#qml12ec0c0443204b2f8ed29dfa5a1e4afc"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MSHU4dwYEe2l3YMjhPXsGA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_AijWeNwYEe2l3YMjhPXsGA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_AijWedwYEe2l3YMjhPXsGA"/>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_AijWcdwYEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_AijWctwYEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_AijWc9wYEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_AijWdNwYEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Menu" href="MantisHome.sl#qmlf1b2e8ac17a34f9d83dc3ae358b4d542"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AijWddwYEe2l3YMjhPXsGA"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_-YhH0twXEe2l3YMjhPXsGA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_-YhH09wXEe2l3YMjhPXsGA"/>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_-YggwdwXEe2l3YMjhPXsGA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_-YggwtwXEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_-Yggw9wXEe2l3YMjhPXsGA"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_-YggxNwXEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:MenuBar" href="MantisHome.sl#qml266b0921ad50468486df31e8e50d3023"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-YggxdwXEe2l3YMjhPXsGA" x="25" y="234"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_98XscNwZEe2l3YMjhPXsGA" type="3033" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_98YTgNwZEe2l3YMjhPXsGA" type="5051"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_98YTgdwZEe2l3YMjhPXsGA" type="7015">
+          <children xmi:type="notation:Node" xmi:id="_BvkRQNwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_BvkRRNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_BvkRQdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_BvkRQtwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qmla3091121e4e848308d3bac6fdc98a24d"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BvkRQ9waEe2l3YMjhPXsGA" x="25" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Fr6LANwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Fr6LBNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_Fr6LAdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_Fr6LAtwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml40271e18324347408ffdd37a2bc75131"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fr6LA9waEe2l3YMjhPXsGA" x="160" y="9" width="106"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_J4hVYNwaEe2l3YMjhPXsGA" type="3026">
+            <children xmi:type="notation:DecorationNode" xmi:id="_J4hVZdwaEe2l3YMjhPXsGA" type="5025"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_J4hVYdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_J4hVYtwaEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_J4hVY9waEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="MantisHome.sl#qml75d7085600b64a5d85bfe90e68018e41"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J4hVZNwaEe2l3YMjhPXsGA" x="709" y="12"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_98XscdwZEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Group" href="MantisHome.sl#qmle306094035044d82ae9e0beb67fe6da2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_98XsctwZEe2l3YMjhPXsGA" x="175" y="234" width="841" height="151"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_NEQ4oNwaEe2l3YMjhPXsGA" type="3033" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_NERfsNwaEe2l3YMjhPXsGA" type="5051"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_NERfsdwaEe2l3YMjhPXsGA" type="7015">
+          <children xmi:type="notation:Node" xmi:id="_NEVKENwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_NEVKFNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_NEVKEdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_NEVKEtwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml2dea576337db4356b175188a3266c543"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NEVKE9waEe2l3YMjhPXsGA" x="25" y="9" width="80" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_NEVxINwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_NEVxJNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_NEVxIdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_NEVxItwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml41810149a75b4110a938937220c2e447"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NEVxI9waEe2l3YMjhPXsGA" x="160" y="9" width="106" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_NEWYMNwaEe2l3YMjhPXsGA" type="3026">
+            <children xmi:type="notation:DecorationNode" xmi:id="_NEWYNdwaEe2l3YMjhPXsGA" type="5025"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_NEWYMdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_NEWYMtwaEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_NEWYM9waEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="MantisHome.sl#qmlbb3728faa87345338e4ec602ad30178e"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NEWYNNwaEe2l3YMjhPXsGA" x="709" y="12" width="88" height="40"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_NEQ4odwaEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Group" href="MantisHome.sl#qml187b93fd62f94c2d9e85757f9c54f2f8"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NEQ4otwaEe2l3YMjhPXsGA" x="175" y="399" width="841" height="151"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Wu_4kNwaEe2l3YMjhPXsGA" type="3033" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_WvAfoNwaEe2l3YMjhPXsGA" type="5051"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_WvAfodwaEe2l3YMjhPXsGA" type="7015">
+          <children xmi:type="notation:Node" xmi:id="_WvFYINwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WvFYJNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WvFYIdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_WvFYItwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml3d4359607f804bf7b36aa4a7a1f613c8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WvFYI9waEe2l3YMjhPXsGA" x="25" y="9" width="80" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WvFYJdwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WvF_MNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WvFYJtwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_WvFYJ9waEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qmlb18228bcbcc341eba298d070f10f10b4"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WvFYKNwaEe2l3YMjhPXsGA" x="160" y="9" width="106" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WvF_MdwaEe2l3YMjhPXsGA" type="3026">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WvGmQNwaEe2l3YMjhPXsGA" type="5025"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WvF_MtwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_WvF_M9waEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_WvF_NNwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="MantisHome.sl#qml5393a630f7ce4a86a26f3ccc02792622"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WvF_NdwaEe2l3YMjhPXsGA" x="709" y="12" width="88" height="40"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Wu_4kdwaEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Group" href="MantisHome.sl#qml28e0836a29aa48439c82b213c5c3d9d6"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Wu_4ktwaEe2l3YMjhPXsGA" x="175" y="564" width="841" height="151"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_a7zQMNwaEe2l3YMjhPXsGA" type="3033" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_a7z3QtwaEe2l3YMjhPXsGA" type="5051"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_a7z3Q9waEe2l3YMjhPXsGA" type="7015">
+          <children xmi:type="notation:Node" xmi:id="_a78aINwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_a78aJNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_a78aIdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_a78aItwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qmlbf9954c663b44f8bbceef3c7db7417a9"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a78aI9waEe2l3YMjhPXsGA" x="25" y="9" width="80" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_a78aJdwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_a79BMNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_a78aJtwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_a78aJ9waEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml40128797a5144a28bf6c81dc3659d813"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a78aKNwaEe2l3YMjhPXsGA" x="160" y="9" width="106" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_a79BMdwaEe2l3YMjhPXsGA" type="3026">
+            <children xmi:type="notation:DecorationNode" xmi:id="_a79BNtwaEe2l3YMjhPXsGA" type="5025"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_a79BMtwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_a79BM9waEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_a79BNNwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="MantisHome.sl#qmlaf49418465c847d8a59adf4f34846dba"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a79BNdwaEe2l3YMjhPXsGA" x="709" y="12" width="88" height="40"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_a7z3QNwaEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Group" href="MantisHome.sl#qml6a80b469eb194d74acad6c214e0c64ee"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a7z3QdwaEe2l3YMjhPXsGA" x="176" y="744" width="841" height="151"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_g5q80NwaEe2l3YMjhPXsGA" type="3033" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_g5rj4NwaEe2l3YMjhPXsGA" type="5051"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_g5rj4dwaEe2l3YMjhPXsGA" type="7015">
+          <children xmi:type="notation:Node" xmi:id="_g5vOQNwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_g5vORNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_g5vOQdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_g5vOQtwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qmld651101eb66145e097cc57e06cfe45e0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5vOQ9waEe2l3YMjhPXsGA" x="25" y="9" width="80" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_g5vORdwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_g5v1UNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_g5vORtwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_g5vOR9waEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml8d29f4b563674f44918578b0d611483f"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5vOSNwaEe2l3YMjhPXsGA" x="160" y="9" width="106" height="27"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_g5v1UdwaEe2l3YMjhPXsGA" type="3026">
+            <children xmi:type="notation:DecorationNode" xmi:id="_g5v1VtwaEe2l3YMjhPXsGA" type="5025"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_g5v1UtwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_g5v1U9waEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_g5v1VNwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="MantisHome.sl#qml65f8d9bae7b2483d8520f0a74bfb0699"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5v1VdwaEe2l3YMjhPXsGA" x="709" y="12" width="88" height="40"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_g5q80dwaEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Group" href="MantisHome.sl#qmldb37e4d1d32c42d7aa3f85cb0797b4fc"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5q80twaEe2l3YMjhPXsGA" x="175" y="926" width="841" height="151"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_xMcAsNwaEe2l3YMjhPXsGA" type="3033" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_xMcAs9waEe2l3YMjhPXsGA" type="5051"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_xMcAtNwaEe2l3YMjhPXsGA" type="7015">
+          <children xmi:type="notation:Node" xmi:id="_0LYeENwaEe2l3YMjhPXsGA" type="3026">
+            <children xmi:type="notation:DecorationNode" xmi:id="_0LZFINwaEe2l3YMjhPXsGA" type="5025"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_0LYeEdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_0LYeEtwaEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_0LYeE9waEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="MantisHome.sl#qml6817ef93e3b64d40bf53099cd235d515"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0LYeFNwaEe2l3YMjhPXsGA" x="26" y="16"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6FEOQNwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="_6FEORNwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_6FEOQdwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_6FEOQtwaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml84c2ba5122a245749607ddd11e02ffe9"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6FEOQ9waEe2l3YMjhPXsGA" x="25" y="99" width="136"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__ufU4NwaEe2l3YMjhPXsGA" type="3027">
+            <children xmi:type="notation:DecorationNode" xmi:id="__uf78NwaEe2l3YMjhPXsGA" type="5026"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="__ufU4dwaEe2l3YMjhPXsGA"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="__ufU4twaEe2l3YMjhPXsGA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="MantisHome.sl#qml78b086e0908d425dab3d2cc6973ecd15"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__ufU49waEe2l3YMjhPXsGA" x="190" y="99"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_xMcAsdwaEe2l3YMjhPXsGA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Group" href="MantisHome.sl#qml8d7066773ed04dc3b6b669fdc82e5272"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xMcAstwaEe2l3YMjhPXsGA" x="1060" y="234" width="436" height="346"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Z54u8dwUEe2l3YMjhPXsGA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Z54u8twUEe2l3YMjhPXsGA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_Z54u89wUEe2l3YMjhPXsGA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Z54u9NwUEe2l3YMjhPXsGA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="MantisHome.sl#qml4b1166851a70464eb31277269d74a594"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z54u9dwUEe2l3YMjhPXsGA" x="30" y="30" width="1531" height="1171"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_OF_DEdwUEe2l3YMjhPXsGA"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="MantisHome.sl#/"/>
+</notation:Diagram>
