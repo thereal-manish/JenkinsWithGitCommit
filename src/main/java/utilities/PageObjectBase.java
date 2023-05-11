@@ -56,7 +56,9 @@ public class PageObjectBase {
 
 		} else if (getBrowser().equalsIgnoreCase("Chrome")) {
 //			System.setProperty("webdriver.chrome.driver3", System.getProperty("user.dir") + "\\chromedriver.exe");
+			//This below step is to invoke browser using webdriver manager
 			WebDriverManager.chromedriver().setup();
+			
 			driver = new ChromeDriver();
 			driver.manage().window().maximize();
 			System.out.println("Jenkins Triggered");
