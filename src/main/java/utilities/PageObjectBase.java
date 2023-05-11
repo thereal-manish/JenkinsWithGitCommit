@@ -59,6 +59,7 @@ public class PageObjectBase {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 			driver.manage().window().maximize();
+			System.out.println("Jenkins Triggered");
 		} else if (getBrowser().equalsIgnoreCase("Edge")) {
 //			System.setProperty("webdriver.ie.driver3", System.getProperty("user.dir") + "\\IEDriverServer.exe");
 			WebDriverManager.edgedriver().setup();
